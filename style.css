@@ -29,5 +29,15 @@
 .escola{
 background-image:linear-gradient(gray, rgb(130, 73, 68)) ;
 color: white;
-display: flex;
+display: flex; 
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
