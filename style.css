@@ -45,9 +45,24 @@ padding: 24px 0;
 .escola-titulo{
     padding: 24px 0;
 }
-.estudante-imagem{
-    width: 120px;
+.astro-imagem{
+    width: 15%;
 }
-.icone{
-width: 24px;
+.container{
+    position: relative;
+    display: inline-block;
+}
+.rede-sociais{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+}
+.icone-rede-social{
+margin-right: 5px; 
+}
+
+.icone img{
+    width: 20px;
+    height: 20px;
 }
